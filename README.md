@@ -32,16 +32,16 @@ Playing is really simple, it is same as any other open world game where your pla
 These controls can be easily changed within the code.
 
 *Movement
-  W - Move Forword
-  A - Move Left
-  S - Move Right
-  D - Move Down
+  *W - Move Forword
+  *A - Move Left
+  *S - Move Right
+  *D - Move Down
 
 *Attact
-  UP ARROW - Attact Up
-  LEFT ARROW - Attact Left
-  RIGHT ARROW - Attact Right
-  DOWN ARROW - Attact Down
+  *UP ARROW - Attact Up
+  *LEFT ARROW - Attact Left
+  *RIGHT ARROW - Attact Right
+  *DOWN ARROW - Attact Down
  
 E Key - To Open and Close Inventory
 
