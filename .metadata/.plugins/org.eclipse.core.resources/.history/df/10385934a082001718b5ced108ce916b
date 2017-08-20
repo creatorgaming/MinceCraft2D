@@ -1,0 +1,31 @@
+package dev.project.game.ui;
+
+import java.awt.Graphics;
+import java.awt.event.MouseEvent;
+import java.util.ArrayList;
+
+import dev.project.game.Handler;
+
+public class UIManager {
+	
+	private Handler handler;
+	private ArrayList<UIObject> objects;
+	
+	public UIManager(Handler handler){
+		this.handler = handler;
+		objects = new ArrayList<UIObject>();
+	}
+	
+	public void update(){
+		
+	}
+	
+	public void render(Graphics g){
+		
+	}
+	
+	public void onMouseMove(MouseEvent e){
+		
+	}
+	
+}

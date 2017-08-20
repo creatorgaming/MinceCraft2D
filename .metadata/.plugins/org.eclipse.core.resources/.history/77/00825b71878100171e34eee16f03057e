@@ -1,0 +1,24 @@
+package dev.project.game.states;
+
+import java.awt.Color;
+import java.awt.Graphics;
+
+import dev.project.game.Handler;
+
+public class MenuState extends States {
+
+	public MenuState(Handler handler){
+		super(handler);
+	}
+	@Override
+	public void update() {
+		
+	}
+
+	@Override
+	public void render(Graphics g) {
+		g.setColor(Color.RED);
+		g.fillRect(handler.getMouseManager().getMouseX(), handler.getMouseManager().getMouseY(), 10, 10);
+	}
+
+}

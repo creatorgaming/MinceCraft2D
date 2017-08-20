@@ -1,0 +1,10 @@
+package dev.project.game.entities.statics;
+
+import dev.project.game.entities.Entity;
+
+public abstract class StaticEntity extends Entity{
+	
+	publiv StaticEntity(Handler handler, float x, float y, int width, int height){
+		
+	}
+}

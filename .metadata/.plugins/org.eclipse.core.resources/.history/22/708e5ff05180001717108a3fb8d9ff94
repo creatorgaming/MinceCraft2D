@@ -1,0 +1,8 @@
+package dev.project.game.entities;
+
+public class EntityManager {
+	
+	public EntityManager(){
+		
+	}
+}

@@ -1,0 +1,6 @@
+package dev.project.game.ui;
+
+public class UIManager {
+	
+	private Handler handler;
+}

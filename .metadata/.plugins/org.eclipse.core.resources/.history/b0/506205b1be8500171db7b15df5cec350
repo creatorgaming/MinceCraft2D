@@ -1,0 +1,8 @@
+package dev.project.game.gfx;
+
+public class FontLoader {
+	
+	public static FontLoader(){
+		
+	}
+}

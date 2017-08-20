@@ -1,0 +1,5 @@
+package dev.project.game.entities.statics;
+
+public class Tree extends StaticEntiy {
+
+}

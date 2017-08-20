@@ -1,0 +1,10 @@
+package dev.project.game.ui;
+
+import dev.project.game.Handler;
+
+public class UIManager {
+	
+	private Handler handler;
+	private ArratList<UIObject> objects;
+	
+}

@@ -1,0 +1,11 @@
+package dev.project.game.entities;
+
+public class EntityManager {
+	
+	private Handler handler;
+	private Player player;
+	
+	public EntityManager(){
+		
+	}
+}

@@ -1,0 +1,15 @@
+package dev.project.game.ui;
+
+import java.util.ArrayList;
+
+import dev.project.game.Handler;
+
+public class UIManager {
+	
+	private Handler handler;
+	private ArrayList<UIObject> objects;
+	
+	public UIManager(Handler handler){
+		
+	}
+}

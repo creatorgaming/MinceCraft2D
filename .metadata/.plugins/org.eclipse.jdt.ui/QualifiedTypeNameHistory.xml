@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="dev.project.game.gfx.ImageLoader"/>
+<fullyQualifiedTypeName name="dev.project.game.states.MenuState"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="dev.project.game.utils.Utils"/>
+<fullyQualifiedTypeName name="dev.project.game.input.KeyManager"/>
+<fullyQualifiedTypeName name="dev.project.game.tiles.Tile"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.awt.event.MouseEvent"/>
+<fullyQualifiedTypeName name="dev.project.game.ui.UIManager"/>
+<fullyQualifiedTypeName name="dev.project.game.entities.Entity"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="dev.project.game.items.Item"/>
+<fullyQualifiedTypeName name="dev.project.game.Handler"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+<fullyQualifiedTypeName name="dev.project.game.gfx.Assets"/>
+<fullyQualifiedTypeName name="java.awt.Font"/>
+<fullyQualifiedTypeName name="dev.project.game.gfx.Text"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+</qualifiedTypeNameHistroy>

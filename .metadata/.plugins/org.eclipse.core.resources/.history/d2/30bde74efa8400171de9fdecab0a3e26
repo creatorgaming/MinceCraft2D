@@ -1,0 +1,8 @@
+package dev.project.game.items;
+
+import dev.project.game.Handler;
+
+public class ItemManager {
+	
+	public Handler handler;
+}

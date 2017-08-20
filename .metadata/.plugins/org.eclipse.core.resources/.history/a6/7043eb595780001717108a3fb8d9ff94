@@ -1,0 +1,5 @@
+package dev.project.game.input;
+
+public class MouseManager implements MouseListener, MouseMotionListener{
+
+}

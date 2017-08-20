@@ -1,0 +1,17 @@
+package dev.project.game.entities;
+
+import java.util.ArrayList;
+
+import dev.project.game.Handler;
+import dev.project.game.entities.creatures.Player;
+
+public class EntityManager {
+	
+	private Handler handler;
+	private Player player;
+	private ArrayList<Entity> entities;
+	
+	public EntityManager(Handler handler, Player player){
+		
+	}
+}

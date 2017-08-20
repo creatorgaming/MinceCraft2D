@@ -1,0 +1,10 @@
+package dev.project.game.gfx;
+
+import java.awt.Font;
+
+public class FontLoader {
+	
+	public static Font loadFont(String path, int size){
+		return Font.createFont(Font.TRUETYPE_FONT, new File(path))
+	}
+}

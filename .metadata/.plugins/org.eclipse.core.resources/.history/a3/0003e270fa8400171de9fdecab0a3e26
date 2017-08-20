@@ -1,0 +1,17 @@
+package dev.project.game.items;
+
+import dev.project.game.Handler;
+
+public class ItemManager {
+	
+	public Handler handler;
+	private ArrayList<Item> items;
+	
+	public ItemManager(Handler handler){
+		this.handler = handler;
+	}
+	
+	public void update(){
+		}
+	
+}

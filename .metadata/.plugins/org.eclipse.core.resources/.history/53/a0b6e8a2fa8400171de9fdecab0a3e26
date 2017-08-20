@@ -1,0 +1,40 @@
+package dev.project.game.items;
+
+import java.awt.Graphics;
+import java.util.ArrayList;
+
+import dev.project.game.Handler;
+
+public class ItemManager {
+	
+	public Handler handler;
+	private ArrayList<Item> items;
+	
+	public ItemManager(Handler handler){
+		this.handler = handler;
+	}
+	
+
+	public void update(){
+	}
+	
+	public void render(Graphics g){
+		for(Item i : items)
+			i.render(g);
+	}
+	
+	public void addItem(Item i){
+		items.add(i);
+	}
+	
+
+	// GETTERS AND SETTERS
+	public Handler getHandler() {
+		return handler;
+	}
+
+	public void setHandler(Handler handler) {
+		this.handler = handler;
+	}
+
+}

@@ -1,0 +1,8 @@
+package dev.project.game.ui;
+
+public class UIObject {
+	
+	public UIObject(float x, float y, int width, int height){
+		
+	}
+}
