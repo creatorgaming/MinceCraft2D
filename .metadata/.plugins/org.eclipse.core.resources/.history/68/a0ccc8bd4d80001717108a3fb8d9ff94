@@ -1,7 +1,0 @@
-package dev.project.game.gfx;
-
-public class Animations {
-
-	private int speed, index;
-	private BufferedImage[] frames;
-}
