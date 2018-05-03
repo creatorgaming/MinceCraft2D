@@ -54,14 +54,17 @@ E Key: To Open and Close Inventory
 
 **Here are some clips from the game.**
 
-![Clip-1]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_1.PNG?raw=true)
+![test_image_1](https://user-images.githubusercontent.com/24351821/39574431-d0f44450-4ef4-11e8-9d2a-11b0b244994d.PNG)
 
-![Clip-2]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_2.PNG?raw=true)
+![test_image_2](https://user-images.githubusercontent.com/24351821/39574432-d12ec44a-4ef4-11e8-9ab5-394bdff40c62.PNG)
 
-![Clip-3]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_3.PNG?raw=true)
+![test_image_3](https://user-images.githubusercontent.com/24351821/39574433-d1676ab6-4ef4-11e8-9a4a-9553dbb7b0a4.PNG)
 
-![Clip-4]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_4.PNG?raw=true)
+![test_image_4](https://user-images.githubusercontent.com/24351821/39574434-d1a6bde2-4ef4-11e8-8b50-b48d2b526f82.PNG)
 
-![Clip-5]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_5.PNG?raw=true)
+![test_image_5](https://user-images.githubusercontent.com/24351821/39574446-e2f79db4-4ef4-11e8-896b-5180a5528e4d.PNG)
 
-![Clip-6]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_6.PNG?raw=true)
+![test_image_6](https://user-images.githubusercontent.com/24351821/39574435-d216588c-4ef4-11e8-9e13-c0c70b234a51.PNG)
+
+
+
