@@ -50,3 +50,16 @@ These controls can be easily changed within the code.
 E Key: To Open and Close Inventory
 
 > Many things could be added to this game and many could be altered, all it just depends on your imagination.
+
+
+**Here are some clips from the game.**
+
+![Clip-1]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_1.PNG)
+
+![Clip-2]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_2.PNG)
+
+![Clip-4]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_3.PNG)
+
+![Clip-5]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_5.PNG)
+
+![Clip-6]({{site.baseurl}}/https://github.com/creatorgaming/MineCraft2D/blob/master/Test%20Images/Test_Image_6.PNG)
